@@ -1,7 +1,8 @@
 [
 {
-  "app_name": "MyAwesomeApp",
-  "url_android": "https://play.google.com/store/apps/details?id=com.example.myawesomeapp",
-  "url_ios": "https://apps.apple.com/us/app/myawesomeapp/id1234567890"
+  "appName": "MyAwesomeApp",
+  "urlAndroid": "https://play.google.com/store/apps/details?id=com.example.myawesomeapp",
+  "urlIos": "https://apps.apple.com/us/app/myawesomeapp/id1234567890"
+  "urlUWP": "UWP"
 }
 ]
