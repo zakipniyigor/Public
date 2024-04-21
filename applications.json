@@ -1,8 +1,8 @@
 [
 {
   "appName": "LedScroller",
-  "urlAndroid": "https://stackoverflow.com/1",
-  "urlIos": "https://apps.apple.com/us/app/myawesomeapp/id1234567890",
-  "urlUWP": "UWP"
+  "urlAndroid": "Test url for Android for LedScroller",
+  "urlIos": "Test url for iOs for LedScroller",
+  "urlUWP": "Test url for UWP for LedScroller"
 }
 ]
